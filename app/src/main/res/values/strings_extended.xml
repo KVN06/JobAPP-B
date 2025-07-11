@@ -1,0 +1,114 @@
+<!-- Strings adicionales para la aplicación -->
+<resources>
+    <!-- Títulos de pantallas -->
+    <string name="screen_home">Inicio</string>
+    <string name="screen_jobs">Empleos</string>
+    <string name="screen_trainings">Capacitaciones</string>
+    <string name="screen_classifieds">Clasificados</string>
+    <string name="screen_profile">Perfil</string>
+    <string name="screen_settings">Configuración</string>
+    <string name="screen_notifications">Notificaciones</string>
+    
+    <!-- Mensajes de estado -->
+    <string name="loading">Cargando...</string>
+    <string name="error_generic">Ha ocurrido un error</string>
+    <string name="no_data">No hay datos disponibles</string>
+    <string name="retry">Reintentar</string>
+    
+    <!-- Configuración -->
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_light_mode">Modo claro</string>
+    <string name="settings_dark_mode">Modo oscuro</string>
+    <string name="settings_notifications">Notificaciones</string>
+    <string name="settings_push_notifications">Notificaciones push</string>
+    <string name="settings_email_notifications">Notificaciones por email</string>
+    <string name="settings_privacy">Privacidad</string>
+    <string name="settings_security">Seguridad</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_help">Ayuda</string>
+    <string name="settings_logout">Cerrar sesión</string>
+    
+    <!-- Perfil -->
+    <string name="profile_edit">Editar Perfil</string>
+    <string name="profile_applications">Aplicaciones</string>
+    <string name="profile_rating">Calificación</string>
+    <string name="profile_courses">Cursos</string>
+    <string name="profile_quick_actions">Acciones Rápidas</string>
+    <string name="profile_recent_applications">Aplicaciones Recientes</string>
+    <string name="profile_skills">Habilidades</string>
+    <string name="profile_recent_activity">Actividad Reciente</string>
+    
+    <!-- Notificaciones -->
+    <string name="notifications_unread">no leídas</string>
+    <string name="notifications_mark_all_read">Marcar todas como leídas</string>
+    <string name="notifications_empty">No hay notificaciones</string>
+    <string name="notifications_empty_subtitle">Cuando recibas notificaciones aparecerán aquí</string>
+    
+    <!-- Empleos -->
+    <string name="jobs_urgent">Empleos Urgentes</string>
+    <string name="jobs_remote">Trabajo Remoto</string>
+    <string name="jobs_apply">Aplicar</string>
+    <string name="jobs_save">Guardar</string>
+    <string name="jobs_share">Compartir</string>
+    
+    <!-- Capacitaciones -->
+    <string name="trainings_popular">Capacitaciones Populares</string>
+    <string name="trainings_enroll">Inscribirse</string>
+    <string name="trainings_duration">Duración</string>
+    <string name="trainings_difficulty">Dificultad</string>
+    
+    <!-- Clasificados -->
+    <string name="classifieds_recent">Clasificados Recientes</string>
+    <string name="classifieds_contact">Contactar</string>
+    <string name="classifieds_location">Ubicación</string>
+    
+    <!-- Acciones comunes -->
+    <string name="action_search">Buscar</string>
+    <string name="action_filter">Filtrar</string>
+    <string name="action_sort">Ordenar</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_ok">OK</string>
+    <string name="action_yes">Sí</string>
+    <string name="action_no">No</string>
+    <string name="action_continue">Continuar</string>
+    <string name="action_skip">Omitir</string>
+    <string name="action_done">Hecho</string>
+    <string name="action_close">Cerrar</string>
+    <string name="action_back">Atrás</string>
+    <string name="action_next">Siguiente</string>
+    <string name="action_previous">Anterior</string>
+    
+    <!-- Mensajes de éxito -->
+    <string name="success_profile_updated">Perfil actualizado exitosamente</string>
+    <string name="success_application_sent">Aplicación enviada exitosamente</string>
+    <string name="success_settings_saved">Configuración guardada</string>
+    
+    <!-- Mensajes de error -->
+    <string name="error_network">Error de conexión a internet</string>
+    <string name="error_server">Error del servidor</string>
+    <string name="error_form_validation">Por favor, completa todos los campos</string>
+    <string name="error_permission_denied">Permiso denegado</string>
+    
+    <!-- Tiempo relativo -->
+    <string name="time_now">Ahora</string>
+    <string name="time_minutes_ago">hace %d min</string>
+    <string name="time_hours_ago">hace %d h</string>
+    <string name="time_days_ago">hace %d d</string>
+    <string name="time_weeks_ago">hace %d sem</string>
+    
+    <!-- Descripciones de contenido -->
+    <string name="content_description_profile_image">Imagen de perfil</string>
+    <string name="content_description_company_logo">Logo de la empresa</string>
+    <string name="content_description_job_icon">Icono de empleo</string>
+    <string name="content_description_training_icon">Icono de capacitación</string>
+    <string name="content_description_notification_icon">Icono de notificación</string>
+    <string name="content_description_settings_icon">Icono de configuración</string>
+    <string name="content_description_search_icon">Icono de búsqueda</string>
+    <string name="content_description_back_button">Botón de retroceso</string>
+    <string name="content_description_menu_button">Botón de menú</string>
+    <string name="content_description_close_button">Botón de cerrar</string>
+</resources>
