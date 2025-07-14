@@ -9,7 +9,6 @@ import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
-import com.google.accompanist.systemuicontroller.rememberSystemUiController
 
 private val DarkColorScheme = darkColorScheme(
     primary = DarkPrimary,
@@ -80,13 +79,6 @@ fun Job_Opp_MobileTheme(
         darkTheme -> DarkColorScheme
         else -> LightColorScheme
     }
-    
-    // Configurar la barra de estado
-    val systemUiController = rememberSystemUiController()
-    systemUiController.setSystemBarsColor(
-        color = colorScheme.surfaceContainer,
-        darkIcons = !darkTheme
-    )
 
     MaterialTheme(
         colorScheme = colorScheme,
